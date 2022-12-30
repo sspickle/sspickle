@@ -1,9 +1,7 @@
-Hi 👋 My name is Steve Spicklemire
+Steve Spicklemire
 ==================================  
 Teacher, Builder, Life long learner
-
 ---
-
 I've been teaching physics, engineering, and development for over 30 years. I love learning new things and sharing insights I discover along the way.
 
 - 🌍  I'm based in Indianapolis IN
