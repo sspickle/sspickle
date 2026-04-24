@@ -1,9 +1,7 @@
-Hi 👋 My name is Steve Spicklemire
+Steve Spicklemire
 ==================================  
 Teacher, Builder, Life long learner
-
 ---
-
 I've been teaching physics, engineering, and development for over 30 years. I love learning new things and sharing insights I discover along the way.
 
 - 🌍  I'm based in Indianapolis IN
@@ -19,6 +17,3 @@ I've been teaching physics, engineering, and development for over 30 years. I lo
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/sspickle)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@sspickle)
 
-## Support Me
-
-<a href="https://www.buymeacoffee.com/sspickle"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
